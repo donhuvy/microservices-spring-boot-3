@@ -27,6 +27,9 @@
         <module>service01</module>
         <module>service02</module>
         <module>gateway-service</module>
+        <module>config-service</module>
+        <module>auth-service</module>
+        <module>user-service</module>
     </modules>
     <build>
         <plugins>
