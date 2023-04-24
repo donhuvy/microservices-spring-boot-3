@@ -24,6 +24,9 @@
 
     <modules>
         <module>eureka-server</module>
+        <module>service01</module>
+        <module>service02</module>
+        <module>gateway-service</module>
     </modules>
     <build>
         <plugins>
