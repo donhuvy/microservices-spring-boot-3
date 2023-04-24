@@ -6,8 +6,7 @@ spring:
     name: user-service
   data:
     mongodb:
-      uri: mongodb://localhost:27017/microservices-1-db
-
+      uri: mongodb://userAdmin:(Xx%7DuAL%40%3Dt%3DEP2(!@10.86.140.162:27017,10.86.140.187:27017,10.86.138.180:27017/USER?replicaSet=rs0&authSource=admin
 
 jwt:
   secret: BvPHGM8C0ia4uOuxxqPD5DTbWC9F9TWvPStp3pb7ARo0oK2mJ3pd3YG4lxA9i8bj6OTbadwezxgeEByY
